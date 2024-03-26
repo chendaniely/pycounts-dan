@@ -17,9 +17,9 @@ author = u"Daniel Chen"
 # ones.
 extensions = [
     #"myst_nb",
-    "autoapi.extension",
-    "sphinx.ext.napoleon",
-    "sphinx.ext.viewcode"
+    #"autoapi.extension",
+    #"sphinx.ext.napoleon",
+    #"sphinx.ext.viewcode"
 ]
 autoapi_dirs = ["../src"]
 
